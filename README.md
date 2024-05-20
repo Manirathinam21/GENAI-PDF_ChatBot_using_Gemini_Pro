@@ -6,7 +6,7 @@ conda create -p venv python==3.10
 
 ```
 ```
- conda activate venv/
+ source activate ./venv
 
 ```
 Get Gemini api key from https://makersuite.google.com/app/apikey and put it in the .env file
@@ -25,5 +25,6 @@ streamlit run app.py
 ## Chatbot Image 
 
 
-![image](https://github.com/Manirathinam21/GENAI-PDF_ChatBot_using_Gemini_Pro/assets/59825357/3a0a4fda-a7cd-4295-880b-fbedfdb6bdf6)
+![image](https://github.com/Manirathinam21/GENAI-PDF_ChatBot_using_Gemini_Pro/assets/59825357/eb71eee6-a346-42d4-88c2-9bf0d3f47dbf)
+
 
