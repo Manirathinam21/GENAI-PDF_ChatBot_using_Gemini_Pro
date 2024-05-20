@@ -2,7 +2,7 @@
 
 ## Steps to run this application
 ```
-conda create -p venv python==3.10
+conda create -p venv python=3.10 -y
 
 ```
 ```
